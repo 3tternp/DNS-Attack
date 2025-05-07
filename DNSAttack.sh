@@ -2,7 +2,7 @@
 
 clear
 echo "======================================================"
-echo "       DNS Attack Simulation Tool v1.0"
+echo "       DNS Attack Tool v1.0"
 echo "   For Educational & Authorized Use ONLY"
 echo "======================================================"
 echo "⚠️  Unauthorized use is prohibited and may be illegal."
