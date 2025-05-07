@@ -38,11 +38,15 @@ sudo ./DNSAttack.sh
 ## ⚙️ Requirements
 
 - dig, hping3, dnschef, iodine, dnscat2, openssl
+
 - A lab environment (virtual machines, test DNS servers)
+
 - Linux-based OS (Tested on Kali, Ubuntu)
 
 ## ⚙️ Autoinstall Requirements
+
 chmod +x install_requirements.sh 
+
 sudo ./install_requirements.sh  
 
 ## ✅ Legal and Ethical Use
