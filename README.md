@@ -25,14 +25,14 @@ The toolkit includes simulations for the following DNS-based attack techniques:
 
 ```bash
 git clone https://github.com/yourusername/DNSAttackSim.git
-cd DNSAttackSim
-chmod +x DNSAttackSim.sh modules/*.sh
+cd DNSAttack
+chmod +x DNSAttack.sh modules/*.sh
 ```
 
 ## 🚀 Usage
 
 ```bash
-sudo ./DNSAttackSim.sh
+sudo ./DNSAttack.sh
 ```
 
 ## ⚙️ Requirements
@@ -40,6 +40,10 @@ sudo ./DNSAttackSim.sh
 - dig, hping3, dnschef, iodine, dnscat2, openssl
 - A lab environment (virtual machines, test DNS servers)
 - Linux-based OS (Tested on Kali, Ubuntu)
+
+## ⚙️ Autoinstall Requirements
+chmod +x install_requirements.sh 
+sudo ./install_requirements.sh  
 
 ## ✅ Legal and Ethical Use
 
