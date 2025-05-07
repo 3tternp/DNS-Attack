@@ -1,8 +1,8 @@
-# 🛡️ DNSAttackSim — DNS Attack Simulation Toolkit
+# 🛡️ DNSAttack — DNS Attack Toolkit
 
-**DNSAttackSim** is an educational toolkit designed to simulate various DNS-based attacks in a controlled lab environment for the purposes of training, auditing, and authorized penetration testing.
+**DNSAttack** is an educational toolkit designed to simulate various DNS-based attacks in a controlled lab environment for training, auditing, and authorized penetration testing.
 
-> ⚠️ **WARNING:** This tool is intended for **authorized** and **educational use only**. Unauthorized use against systems without explicit written permission is illegal and unethical.
+> ⚠️ **WARNING:** This tool is intended for **authorized** and **educational use only**. Unauthorized use of systems without explicit written permission is illegal and unethical.
 
 ## 📦 Features
 
